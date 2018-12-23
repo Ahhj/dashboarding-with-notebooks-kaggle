@@ -9,3 +9,7 @@ day-1/nys-turnstile-usage-data/socrata_metadata_turnstile-usage-data-2017.json
 day-1/nys-turnstile-usage-data/MTA_Turnstile_Data_Overview_1pdf
 day-1/nys-turnstile-usage-data/MTA_Turnstile_Data_DataDictionary_1pdf
 */.ipynb_checkpoints/*
+input/MTA_Turnstile_Data_DataDictionary_1pdf
+input/MTA_Turnstile_Data_Overview_1pdf
+input/socrata_metadata_turnstile-usage-data-2017.json
+input/socrata_metadata_turnstile-usage-data-2018.json
