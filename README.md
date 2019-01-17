@@ -4,10 +4,27 @@ Jupyter notebooks from completion of tutorial on Dashboarding with Scheduled Not
 For the live dashboard visit: https://www.kaggle.com/ahhjones/dashboarding-with-notebooks-day-2-python.
 
 ## Structure
-
+- day-1/: Contains notebook from first day of tutorial
+- day-2/: Contains notebook from second day of tutorial
 
 ## Getting started
 
+Download the data using the Kaggle API command
+`kaggle datasets download -d kaggle/meta-kaggle`
+
+Unzip the data into `input/`
+
+Install the following packages (python-3.6)
+- Numpy
+`pip install numpy`
+- Pandas
+`pip install pandas`
+- Matplotlib
+`pip install matplotlib`
+- Plotly
+`pip install plotly`
+- Kaggle
+`pip install kaggle`
 
 ## External links
 Tutorial notebooks: 
